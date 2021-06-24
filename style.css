@@ -1,0 +1,52 @@
+*{
+  width: 450px;
+}
+
+#demo_yellow{
+  background-color: #FFFF00;
+}
+
+#demo_aquamarine{
+  background-color: #7FFFD4;
+}
+
+#demo_turquoise{
+  background-color: #40E0D0;
+}
+
+#demo_crimson{
+  background-color: #dc143c;
+}
+
+#demo_puce{
+  background-color: #CC8899;
+}
+
+#demo_Goldenrod{
+  background-color: #DAA520;
+}
+
+#demo_Khaki{
+  background-color: #F0E68C ;
+}
+
+#demo_Pink{
+  background-color: #FFC0CB;
+}
+
+#demo_Orange{
+  background-color: #FFA500;
+}
+
+
+#demo_Maroon{
+  background-color: #800000;
+}
+
+#demo_Purple{
+  background-color: #800080;
+}
+
+#demo_Fuscia{
+  background-color: #ff00ff;
+}
